@@ -5,7 +5,6 @@
 Unlike standard 2D grid visualizations, this tool renders the operation as a "Glass Cube," allowing you to see the "hidden dimension" of summation ($j$) that occurs when calculating every cell of the result matrix.
 
 ![Visualization Preview](images/demo.png)
-*(Add a screenshot of your plot here)*
 
 ## ✨ Features
 
